@@ -1,2 +1,2 @@
 # ShellScript
-Introdução oa ShellScript
+Introdução ao ShellScript
